@@ -1,2 +1,9 @@
 site_name: 化学自学指南 - Chemistry Self-study Guide
-theme: readthedocs
+site_description: 化学自学指南 - Chemistry Self-study Guide
+site_author: Tennisatw
+draft_docs: |
+  _draft.md
+theme:
+  name: readthedocs
+  custom_dir: 'readthedocs_modify/'
+copyright: '© 2023-2024 Tennisatw'
