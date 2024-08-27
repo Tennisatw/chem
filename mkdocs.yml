@@ -7,3 +7,5 @@ theme:
   name: readthedocs
   custom_dir: 'readthedocs_modify/'
 copyright: '© 2023-2024 Tennisatw'
+markdown_extensions:
+  - attr_list
