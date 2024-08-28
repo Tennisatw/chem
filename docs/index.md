@@ -45,6 +45,7 @@ Welcome to the "Chemistry Self-Study Guide".
         - [1.3.16 干实验：计算溴气分子的键能 - Dry Lab: Calculate the Bond Energy of Bromine Molecule](./1_基础化学_Basic_Chemistry/1.3_分子_Molecules/1.3.16.md)
     - 1.4 化学反应 - Chemical Reactions
         - [1.4.1 化学反应 - Chemical Reaction](./1_基础化学_Basic_Chemistry/1.4_化学反应_Chemical_Reaction/1.4.01.md)
+        - [1.4.2 化学反应类型 - Types of Chemical Reactions](./1_基础化学_Basic_Chemistry/1.4_化学反应_Chemical_Reaction/1.4.02.md)
 
 - 第二章：无机化学 - Chapter 2: Inorganic Chemistry
 
