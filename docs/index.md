@@ -21,6 +21,11 @@ Welcome to the "Chemistry Self-Study Guide".
         - [1.2.1 原子 - Atoms](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.1.md)
         - [1.2.2 元素 - Elements](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.2.md)
         - [1.2.3 相对原子质量 - Relative Atomic Mass](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.3.md)
+        - [1.2.4 元素周期表 - Periodic Table of Elements](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.4.md)
+        - [1.2.5 原子轨道 - Atomic Orbitals](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.5.md)
+        - [1.2.6 原子核外电子排布 - Electron Configuration](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.6.md)
+        - [1.2.7 原子光谱 - Atomic Spectra](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.7.md)
+        - [1.2.8 元素周期律 - Periodic Law of Elements](./1_基础化学_Basic_Chemistry/1.2_原子_Atoms/1.2.8.md)
     - 1.3 分子 - Molecules
     - 1.4 化学反应 - Chemical Reactions
 
