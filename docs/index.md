@@ -48,6 +48,8 @@ Welcome to the "Chemistry Self-Study Guide".
         - [1.4.2 化学反应类型 - Types of Chemical Reactions](./1_基础化学_Basic_Chemistry/1.4_化学反应_Chemical_Reaction/1.4.02.md)
         - [1.4.3 溶液与电离 - Solutions and Ionization](./1_基础化学_Basic_Chemistry/1.4_化学反应_Chemical_Reaction/1.4.03.md)
         - [1.4.4 酸碱反应 - Acid-Base Reaction](./1_基础化学_Basic_Chemistry/1.4_化学反应_Chemical_Reaction/1.4.04.md)
+        - [1.4.5 氧化还原反应 - Redox Reaction](./1_基础化学_Basic_Chemistry/1.4_化学反应_Chemical_Reaction/1.4.05.md)
+        - [1.4.6 化学反应的条件 - Conditions for Chemical Reactions](./1_基础化学_Basic_Chemistry/1.4_化学反应_Chemical_Reaction/1.4.06.md)
 
 - 第二章：无机化学 - Chapter 2: Inorganic Chemistry
 
